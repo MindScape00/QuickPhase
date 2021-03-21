@@ -1,0 +1,11 @@
+## Interface: 80300
+## Title: |cffff6060QuickPhase
+## Author: MindScape
+## Version: 6.1.0
+## Notes: Adds Many Phase Management commands to the right-click menu, as well as a GUI Element for Phase Moderation.
+## DefaultState: Enabled
+## X-Date: March 21, 2021
+## X-Website: http://epsilonwow.net/
+## X-Credits: Deramyr, LUA assistance and code writing; Sidriel, Original XAdmin implementation of similar features that influenced this; Chase, XML Support
+
+QuickPhaseGUI.xml
